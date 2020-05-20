@@ -1,6 +1,5 @@
 newIcon
 Image
 Test1
-Test
 AddNewsAdapter
 AddNews
