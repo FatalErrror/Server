@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/FatalErrror/Server/master/naruto.png
+http://www.omsk.edu.ru/sites/default/files/_images/fornews/samsungit.jpg
 Картинки
 Я добавил картинки.
-И да, немного наруто.
