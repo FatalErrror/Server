@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/FatalErrror/Server/master/Settings.png
+Настройки
+Исправлены проблемы с настройками.
