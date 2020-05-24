@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/FatalErrror/Server/master/NewMap.png
+Новая Карта
+В игре полявилась новая локация.
