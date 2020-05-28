@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/FatalErrror/Server/master/Task.png
+Первое задание
+В гильдии можно выполнить первое задание.
